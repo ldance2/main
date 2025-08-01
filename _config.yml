@@ -13,7 +13,7 @@ title                    : "Lory Dance"
 title_separator          : "-"
 name                     : &name "Mavis Beckson"
 description              : &description "Mavis Beckson's Webpage"
-url                      : https://mbeckson2.github.io
+url                      : https://ldance2.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Lincoln, NE"
   employer         : "University of Nebraska–Lincoln"
   uri              : # URL
-  email            : "mbeckson2@nebraska.edu" 
+  email            : "ldance2@nebraska.edu" 
 
   # Academic websites
   academia         : # URL
