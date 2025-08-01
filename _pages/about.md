@@ -63,9 +63,7 @@ I will not elaborate my activist work here but I will provide a few examples of 
 
 During the Summer of 2013, after the civil unrest that occurred in Stockholm Sweden in May of 2013, I was invited to several discussions by non-academic organizations in Sweden. Instead of a typical lecture, I gave a spoken word lecture comparing Black American civil protests to those in Sweden. Inspired by Motown artists of the 1960s, the title of that spoken word lecture is “RESPECT In The Name of Love.SE.” During the Fall of 2016, along with Native activist Leo Yankton, I gave talks in Sweden that bridged the experiences of Native Americans, Black Americans, Indigenous Scandinavians (Sami), and Palestinians. One of our talks was titled “I Cannot Be Free When You Are Not Free.” During May of 2022, I organized a solidarity rally in support of the Niskithe Prayer Camp, an Indigenous organization fighting to prevent the disruption and displacement of sacred purification lodges in Lincoln, Nebraska.
 
-<hr>
-
-# Areas of Interest
+## Areas of Interest
 
 Sociology of Race & Ethnicity\
 Urban Education\
