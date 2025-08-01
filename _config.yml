@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://soc.unl.edu/sites/unl.edu.cas.sociology/files/styles/1_1_960x960/public/node/person/photo/2024-06/Lory%20Janelle%20Dance.jpg?itok=zmaV2-O7"
+  avatar           : "https://soc.unl.edu/sites/unl.edu.cas.sociology/files/styles/1_1_960x960/public/node/person/photo/2024-06/Lory%20Janelle%20Dance.jpg"
   name             : # name
   bio              : "Associate Professor, Department of Sociology"
   location         : "Lincoln, NE"
