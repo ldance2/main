@@ -13,7 +13,7 @@ title                    : "Lory Dance"
 title_separator          : "-"
 name                     : &name "Mavis Beckson"
 description              : &description "Mavis Beckson's Webpage"
-url                      : https://mbeckson2.github.io
+url                      : https://ldance2.github.io/main/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
