@@ -12,8 +12,12 @@ redirect_from:
 **“At-Risk” Students and Urban Schools**\
 When studying urban schools, my angle is less on how students fail in schools but how schools fail students and teachers. In that way, like scholars who once worked at the Center for Research on the Education of Students Placed at Risk (CRESPAR) at Johns Hopkins University, I prefer the designation of “students placed at risk” to that of “at-risk” students. Using ethnographic methods, participatory action research approaches, and, most recently, critical discourse analysis techniques, I document and analyze risk-inducing situations from the perspectives of students and teachers who experience these situations. From my dissertation and my first book to my co-authored article published in the Spring of 2014 and my current book project, Gone with the Neo-Liberal Wind: Minority Teens, School Reform, and Urban Misrepresentations in Sweden and the U.S., the precarious circumstances of urban youths, urban schools, and low-income urban communities remain unifying threads running through the vast majority of my research projects and publications.
 
+<hr>
+
 **Geographically Displaced Persons**\
 My current research area aims to create viable opportunities for academics to work collaboratively with persons who have histories of forced migratory displacement. To that end, a group of academics from UNK, UNO, and UNL have initiated a series of community forums, reports, workshops and symposia that bridge researchers to Indigenous and International Displaced Persons/Communities. These forums, workshop and symposia are designed to uncover understudied areas regarding migratory displacement, develop community sensitive research agendas and reports, and identify viable participatory action research projects or scholarly initiatives designed and conducted via collaborations among researchers and community members.
+
+<hr>
 
 **Comedy, Satire, & Anti-Racism**\
 Another current research area of inquiry combines my specializations in Black Studies, Race and Ethnicity, and Intersectionality Theory with my interest in innovative pedagogy. From Spring 2018 to Fall 2019, with IRB approval, I initiated a one-campus case study on the use of comedic materials in university instructional settings.  I, along with my research assistants, examined whether comedic materials could be used as springboards for productive conversations about sensitive topics, especially anti-Black racism, springboard that facilitate understandings about racial equity. Follow-up research, initially scheduled for Spring 2020, resumed during Spring 2021. Thus far my co-authors and I submitted two article manuscripts from this case study to Sociology Compass in August of 2022. A third manuscript is scheduled for submission to Qualitative Inquiry by September 2022.
@@ -26,8 +30,6 @@ Over the last few years, I have been working with students (undergraduates, grad
 
 **Current Teaching**\
 My most recent courses include The Minority Experience (Ethnic Studies 100), Social Inequality: Race, Class, and Gender (Sociology 398 Special Topics), Immigration and Multiculturalism (Sociology 398 Special Topics), a hybrid undergraduate-graduate course on Social Inequality: Race, Class, and Gender (Sociology 391/898), and a graduate seminar From Bruce Lee to Black Lives Matter (Sociology 906). Immigration and Multiculturalism was a Global Virtual Classroom course that includes once-a-week discussions with students from the University of Jordan in Amman. Using funds from a Virtual Global Teaching Grant, I plan to resume work disrupted by COVID-19 with scholars at Lund University (Sweden), Gothenburg University (Sweden), and Hiroshima University (Japan) on a Virtual Global Seminar.
-
-<hr>
 
 ## Selected Publications
 
