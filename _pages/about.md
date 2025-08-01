@@ -27,6 +27,8 @@ Over the last few years, I have been working with students (undergraduates, grad
 **Current Teaching**\
 My most recent courses include The Minority Experience (Ethnic Studies 100), Social Inequality: Race, Class, and Gender (Sociology 398 Special Topics), Immigration and Multiculturalism (Sociology 398 Special Topics), a hybrid undergraduate-graduate course on Social Inequality: Race, Class, and Gender (Sociology 391/898), and a graduate seminar From Bruce Lee to Black Lives Matter (Sociology 906). Immigration and Multiculturalism was a Global Virtual Classroom course that includes once-a-week discussions with students from the University of Jordan in Amman. Using funds from a Virtual Global Teaching Grant, I plan to resume work disrupted by COVID-19 with scholars at Lund University (Sweden), Gothenburg University (Sweden), and Hiroshima University (Japan) on a Virtual Global Seminar.
 
+<hr>
+
 ## Selected Publications
 
 “Ideal Dialogues with Immigrants of Color in Sweden and the U.S.: A Participatory-Ethnographic Approach.” 2019. Journal of Ethnography and Qualitative Research (L. J. Dance and L. Johnson, co-authors).
